@@ -1,7 +1,7 @@
 {
   "version": 2,
   "skins": [
-    { "id": "ninja", "price": 100, "name": "Cheap Ninja" },
+    { "id": "ninja", "price": 1000, "name": " Ninja" },
     { "id": "diamond", "price": 5 }
   ],
   "premium": {
