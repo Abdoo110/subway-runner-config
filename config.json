@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "skins": [],
+  "animations": [],
+  "premium": {
+    "price": 15,
+    "exclusivePrice": 50,
+    "coinBonus": 5000,
+    "exclusiveCoinBonus": 15000
+  },
+  "events": {
+    "skibidiForceOn": false,
+    "bannerText": "SKIBIDI INVASION — ACTIVE"
+  },
+  "notifications": {
+    "welcome": "Welcome to Subway Runner!",
+    "eventLive": "🚽 Skibidi Invasion is live!",
+    "giftReceived": "🎁 You received a gift!"
+  }
+}
