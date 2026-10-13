@@ -1,12 +1,14 @@
 {
-  "version": 1,
-  "skins": [],
-  "animations": [],
+  "version": 2,
+  "skins": [
+    { "id": "ninja", "price": 100, "name": "Cheap Ninja" },
+    { "id": "diamond", "price": 5 }
+  ],
   "premium": {
-    "price": 15,
-    "exclusivePrice": 50,
-    "coinBonus": 5000,
-    "exclusiveCoinBonus": 15000
+    "price": 10,
+    "exclusivePrice": 30,
+    "coinBonus": 10000,
+    "exclusiveCoinBonus": 30000
   },
   "events": {
     "skibidiForceOn": false,
